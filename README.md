@@ -1,0 +1,1 @@
+# zenscript-nanorc
